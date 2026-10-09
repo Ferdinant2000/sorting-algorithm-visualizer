@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Sort Cyberpunk Visualizer",
+  "description": "Interactive cyberpunk blueprint visualizer for the bubble sort algorithm featuring an animated dual-element crane mechanism, live C code execution tracing, comparisons and swap counters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
